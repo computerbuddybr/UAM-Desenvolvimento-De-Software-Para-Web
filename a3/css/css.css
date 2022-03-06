@@ -1,0 +1,24 @@
+body {
+    line-height: 2em;
+    background-color: #F5F8FA;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    margin-left: auto;
+    margin-top: 2em;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    padding: 2em;
+    box-shadow: 2px 2px #CCCCCC;
+}
+
+.mensagemDeErro {
+    color: red;
+    font-weight: bold;
+}
